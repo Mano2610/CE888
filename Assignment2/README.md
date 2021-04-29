@@ -32,14 +32,13 @@ https://github.com/kcmankar/pytorch-sentiment-analysis-using-XLNet/blob/master/x
   **Requirements:**
   
    Following Python libraries need to be installed before running the code - 
-   
-    pytorch-transformers, 
-    transformers, 
-    numpy, 
-    pandas, 
-    matplotlib, 
-    nltk, 
-    torch, 
-    keras, 
-    imblearn
+      pytorch-transformers, 
+      transformers, 
+      numpy, 
+      pandas, 
+      matplotlib, 
+      nltk, 
+      torch, 
+      keras, 
+      imblearn
     
