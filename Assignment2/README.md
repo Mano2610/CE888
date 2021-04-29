@@ -1,11 +1,11 @@
 **XLNet - Tweet Evaluation on Irony, Offensive and Sentimental analysis**
 
-Dataset used : Tweeteval - 
+**Dataset used** : Tweeteval - 
 https://github.com/cardiffnlp/tweeteval
 
-Model used : XLNet in Pytorch
+**Model used** : XLNet in Pytorch
 
-Reference for the model : 
+**Reference for the model **: 
 
 https://github.com/zihangdai/xlnet
 
@@ -20,6 +20,8 @@ https://github.com/kcmankar/pytorch-sentiment-analysis-using-XLNet/blob/master/x
 **Irony - 62.50**
   
 **Offensive - 77.09**
+
+**How to run the file :**
   
   To run the sentiment analysis for the dataset, Please run the sentiment.ipynb file
   
@@ -27,7 +29,10 @@ https://github.com/kcmankar/pytorch-sentiment-analysis-using-XLNet/blob/master/x
   
   To run the offensive detenction for the dataset, Please run the offensive.ipynb file
   
+  **Requirements:**
+  
    Following Python libraries need to be installed before running the code - 
+   
     pytorch-transformers, 
     transformers, 
     numpy, 
