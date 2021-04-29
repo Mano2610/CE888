@@ -25,9 +25,9 @@ https://github.com/kcmankar/pytorch-sentiment-analysis-using-XLNet/blob/master/x
   
   To run the sentiment analysis for the dataset, Please run the sentiment.ipynb file
   
-  To run the irony detection for the dataset, Please run the irony.ipynb file
+  To run the irony detection for the dataset, Please run the Irony.ipynb file
   
-  To run the offensive detenction for the dataset, Please run the offensive.ipynb file
+  To run the offensive detenction for the dataset, Please run the Offensive.ipynb file
   
   **Requirements:**
   
