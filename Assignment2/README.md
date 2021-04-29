@@ -15,7 +15,7 @@ https://github.com/kcmankar/pytorch-sentiment-analysis-using-XLNet/blob/master/x
 
 **Accuracy achieved :**
   
-**Sentiment -**
+**Sentiment - 69.49**
   
 **Irony - 62.50**
   
