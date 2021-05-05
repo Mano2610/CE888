@@ -1,1 +1,1 @@
-https://github.com/Mano2610/CE888/tree/main/testproject
+https://github.com/Mano2610/Lab10_Test-Project/tree/main/testproject
